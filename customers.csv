@@ -1,0 +1,13 @@
+customer_id,region,tenure_months,monthly_charge,satisfaction,cancelled
+C01,North,3,29,low,1
+C02,South,12,49,medium,0
+C03,East,24,59,high,0
+C04,West,2,39,low,1
+C05,North,36,69,high,0
+C06,South,8,,medium,0
+C07,East,18,55,medium,0
+C08,West,1,999,low,1
+C09,North,6,35,medium,0
+C10,South,48,79,high,0
+C11,East,10,45,medium,1
+C12,West,30,65,high,0
